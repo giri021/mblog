@@ -55,7 +55,8 @@
 			<div class="oflow-hidden color-ash font-9 text-sm-center ptb-sm-5">
 			
 				<ul class="float-left float-sm-none list-a-plr-5 list-a-plr-sm-5 list-a-ptb-15 list-a-ptb-sm-10">
-					<li>Copyright &copy; <?php echo date('Y');?> All rights reserved by<a href="http://mfikri.com" target="_blank">MFikri.com</a></li>
+					<li>Copyright &copy; <?php echo date('Y');?> All rights reserved by<a href="http://mblog.sdcilsy-alpha.web.id/" 
+target="_blank">mblog.sdcilsy-alpha.web.id/</a></li>
 				</ul>
 				<ul class="float-right float-sm-none list-a-plr-10 list-a-plr-sm-5 list-a-ptb-15 list-a-ptb-sm-5">
 					<li><a class="pl-0 pl-sm-10" href="<?php echo $data['site_facebook'];?>"><i class="ion-social-facebook"></i></a></li>
